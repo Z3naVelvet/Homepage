@@ -10,9 +10,9 @@
 
 ## My socials:
 
-[Discord]()
+Discord: Z3naVelvet
 
-[Youtube]()
+[Youtube](https://www.youtube.com/@Z3naVelvet)
 
 ![Alt text](https://avatars.githubusercontent.com/u/189638603?v=4)
 
