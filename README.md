@@ -18,9 +18,9 @@
 
 ## My projects:
 
-[Big Lyrics]()
+[Big Lyrics](https://github.com/Z3naVelvet/Big-Lyrics)
 
-[OCDex]()
+[OCDex](https://github.com/Z3naVelvet/OCDex)
 
 ## My code:
 
