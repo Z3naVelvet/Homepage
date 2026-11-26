@@ -4,7 +4,7 @@
 ## My info:
 
 ### My name is: 
-## ![Asmara](https://img.shields.io/badge/Asmara-purple)(https://i.pinimg.com/736x/76/0b/b1/760bb1f90f3856e2eda38b38d2c3a892.jpg)
+## [![Asmara](https://img.shields.io/badge/Asmara-purple)](https://i.pinimg.com/736x/76/0b/b1/760bb1f90f3856e2eda38b38d2c3a892.jpg)
 #### I'm a beginner coder and often share my stuff here!
 #### I only have 2 big projects rn
 
