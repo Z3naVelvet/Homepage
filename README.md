@@ -35,7 +35,7 @@ import random
 def generate_random_password() -> str:
     """Generate a random password with ASCII characters 33–126."""
     passwordlist = []
-    countmax = random.randint(7, 20)  # Password length between 7 and 10
+    countmax = random.randint(7, 20)  # Password length between 7 and 20
     for _ in range(countmax):
         character = random.randint(33, 126)  # Printable ASCII range
         passwordlist.append(chr(character))
@@ -184,7 +184,7 @@ for letter in letters.keys():
     print(text_to_big(letter))
     time.sleep(0.5)
     os.system('cls')
-print(name_to_big('>>>//|0|\\\\<<<'))
+print(text_to_big('>>>//|0|\\\\<<<'))
 ```
 
 Corresponding python file called letters:
