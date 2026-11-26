@@ -14,6 +14,8 @@ Discord: Z3naVelvet
 
 [Youtube](https://www.youtube.com/@Z3naVelvet)
 
+[Twitch](https://www.twitch.tv/z3navelvet)
+
 ![Alt text](https://avatars.githubusercontent.com/u/189638603?v=4)
 
 ## My projects:
